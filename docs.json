@@ -86,7 +86,7 @@
       "display": "interactive"
     },
     "paramFields": {
-      "expanded": "all"
+      "expanded": "none"
     }
   },
   "navbar": {
