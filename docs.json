@@ -83,7 +83,10 @@
   },
   "api": {
     "playground": {
-      "display": "none"
+      "display": "interactive"
+    },
+    "paramFields": {
+      "expanded": "all"
     }
   },
   "navbar": {
