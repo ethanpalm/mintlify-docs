@@ -83,7 +83,7 @@
   },
   "api": {
     "playground": {
-      "display": "simple"
+      "display": "none"
     }
   },
   "navbar": {
