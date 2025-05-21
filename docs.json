@@ -9,9 +9,9 @@
   },
   "favicon": "/favicon.svg",
   "navigation": {
-    "anchors": [
+    "tabs": [
       {
-        "anchor": "Guides",
+        "tab": "Guides",
         "icon": "book-open",
         "pages": [
           {
@@ -36,7 +36,7 @@
         ]
       },
       {
-        "anchor": "API Reference",
+        "tab": "API Reference",
         "icon": "square-terminal",
         "groups": [
           {
