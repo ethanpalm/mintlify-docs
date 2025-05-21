@@ -90,7 +90,6 @@
     },
     "request": {
       "example": {
-        "showOptionalParams": false,
         "languages": ["curl", "python"]
       }
     }
