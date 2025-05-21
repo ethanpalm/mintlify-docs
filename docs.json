@@ -88,10 +88,8 @@
     "paramFields": {
       "expanded": "none"
     },
-    "request": {
-      "example": {
+    "examples": {
         "languages": ["curl", "python"]
-      }
     }
   },
   "navbar": {
