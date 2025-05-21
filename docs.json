@@ -89,7 +89,7 @@
       "expanded": "none"
     },
     "examples": {
-        "languages": ["curl", "python"]
+        "languages": ["javascript", "curl", "python"]
     }
   },
   "navbar": {
