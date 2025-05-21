@@ -87,6 +87,12 @@
     },
     "paramFields": {
       "expanded": "none"
+    },
+    "request": {
+      "example": {
+        "showOptionalParams": false,
+        "languages": ["curl", "python"]
+      }
     }
   },
   "navbar": {
